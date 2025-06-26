@@ -15,7 +15,10 @@ I'm a passionate ** AI Engineer** from **Vizag**, currently working on exciting 
 - 🔭 I’m currently working on: `PolyTalk`
 - 💡 I'm learning: `LLM, NLP, Raspberry pi`
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/dineshkumarsanthati?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📫 How to reach me: `santhatidineshkumar290@gmail.com / `
+## 📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhatidineshkumar290@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santhati_dinesh)
+
 
 ---
 
