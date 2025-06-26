@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Dinesh</h1>
 
 <p align="center">
-  <em>AI Engineer • Final Year Student at Sathyabama IST • Robotics | IoT | Full-Stack Enthusiast</em><br>
+  <em>AI Engineer • Final Year Student at Sathyabama IST • Robotics | IoT | LLMs</em><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -10,11 +10,11 @@
 ## 🚀 About Me
 
 - 🎓 4th year B.Tech student in **AI and Robotics** @ *Sathyabama Institute of Science and Technology*
-- 🌍 Based in **Vizag, India**
-- 🤖 Passionate about **AI, Robotics, IoT, and LLMs**
+- 🌍 Based in **Chennai, India**
+- 🤖 Passionate about **AI, Robotics, and IoT**
 - 💬 I love turning ideas into prototypes and solving real-world problems with code
 - 🛠️ Currently working on: **PolyTalk – Wearable Multilingual AI Companion**
-- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/dineshkumarsanthati?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/dineshkumarsanthati)
 
 ---
 
@@ -24,7 +24,6 @@
 - 🧠 Large Language Models (LLMs)
 - 🛠️ Embedded Systems with Raspberry Pi
 - 🚀 Autonomous Robotics & ROS
-- 🌐 Full Stack Development
 
 ---
 
@@ -48,14 +47,10 @@
 | [Line Following Robot (Competition)](https://github.com/your-github-username/line-following-bot) | 🏁 Competition robot | IR Sensors, C, Embedded C |
 | [Crop Monitoring with Drone](https://github.com/your-github-username/crop-monitoring-drone) | 🌾 UAV-based smart agriculture system | IoT, ML, Drone SDK |
 
-> 🧩 *Want more? Check out my pinned repositories above!*
-
 ---
 
 ## 🛠️ Tech Stack
 
-```python
-Languages   : Python, C, JavaScript, C++
-Frameworks  : React, Node.js, Express
-Tools       : Git, Docker, Firebase, Linux, ROS
-Domains     : AI/ML, IoT, Robotics, Web Development
+Languages   : Python, C, Java, C++  
+Tools       : Git, Blender, ROS, VS Code  
+Domains     : AI/ML, IoT, Robotics
