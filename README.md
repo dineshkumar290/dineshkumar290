@@ -2,8 +2,6 @@
 
 <p align="center">
   <em>AI Engineer • Final Year Student at Sathyabama IST • Robotics | IoT | LLMs</em><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
